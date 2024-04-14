@@ -7,7 +7,7 @@
 
 
 ## 🚀 *About me*
-## I'm a Student, Developer.
+## I'm a software Developer.
 
 I'm a aroused Developer.
 - 📝 Interested in creating new web designs.
